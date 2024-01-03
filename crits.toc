@@ -1,0 +1,15 @@
+## Interface: 90005
+## Title: Crits
+## Notes: Play goofy sounds on combat events
+## Author: Feashliaa
+## Version: 1.0
+
+# Load libraries.
+Libraries\LibStub\LibStub.lua
+Libraries\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libraries\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libraries\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+## RequiredDeps:
+Crits.lua
+Crits.xml
